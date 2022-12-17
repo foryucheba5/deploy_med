@@ -8,7 +8,7 @@ RUN npm install
 
 COPY . .
 
-COPY ./dist ./dist
+
 
 RUN cd src
 
